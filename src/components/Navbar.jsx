@@ -9,7 +9,7 @@ export class Navbar extends Component {
           <li>Home</li>
           <li>About</li>
           <li>Contact</li>
-        </ul>
+        </ul> 
       </nav>
     )
   }
